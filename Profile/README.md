@@ -1,4 +1,4 @@
-# DevCrafBruhs Organisation Profile Page
+# DevCrafBruhs Organization Profile Page
 
 <p align="center">
     <img src="Profile/OIG.jpg" alt="DevCrafBruhs Logo" style="width: 50%;" />
