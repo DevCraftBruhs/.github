@@ -1,10 +1,10 @@
 # DevCrafBruhs Organisation Profile Page.
 
 <p align="center">
-    <img src="OIG.jpg/>
+    <img src="OIG.jpg" />
 </p>
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username="DevCrafBruhs"l&show_icons=true&count_private=true&theme=dark"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=DevCrafBruhs&show_icons=true&count_private=true&theme=dark" />
 </p>
 
 # About US
