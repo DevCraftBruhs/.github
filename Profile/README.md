@@ -1,18 +1,16 @@
-# GitHub Organisation Profile 
+# DevCrafBruhs Organisation Profile Page.
 
 <p align="center">
-    <img src="https://tanaytoshniwal.me/assets/images/nametag.png" width="350px" alt="tanay toshniwal" />
+    <img src="OIG.jpg/>
 </p>
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=tanaytoshniwal&show_icons=true&count_private=true&theme=dark"/>
+    <img src="https://github-readme-stats.vercel.app/api?username="DevCrafBruhs"l&show_icons=true&count_private=true&theme=dark"/>
 </p>
 
-# About Me
+# About US
 Hi folks :wave: 
 
-I'm Tanay Toshniwal, a Full Stack Developer in MEAN (MongoDB-Express.js-Angular-Node.js) and MERN(MongoDB-Express.js-React.js-Node.js) Stack, an App Developer and a part-time Musician.
-
-I'm a Computer Science Engineer. I did my Bachelor's in Computer Science & Engineering from SRM Institute of Science and Technology, Chennai. I love to learn about how things work and try new tools and technologies. I love to share time with developer communities and events.
+Lorem Ipsum is slechts een proeftekst uit het drukkerij- en zetterijwezen. Lorem Ipsum is de standaard proeftekst in deze bedrijfstak sinds de 16e eeuw, toen een onbekende drukker een zethaak met letters nam en ze door elkaar husselde om een font-catalogus te maken. Het heeft niet alleen vijf eeuwen overleefd maar is ook, vrijwel onveranderd, overgenomen in elektronische letterzetting. Het is in de jaren '60 populair geworden met de introductie van Letraset vellen met Lorem Ipsum passages en meer recentelijk door desktop publishing software zoals Aldus PageMaker die versies van Lorem Ipsum bevatten.
 
 # Skills
 ## Programming Languages:
@@ -55,19 +53,19 @@ I'm a Computer Science Engineer. I did my Bachelor's in Computer Science & Engin
 
 # Want to know more?
 
-<!-- My Portfolio: [https://tanaytoshniwal.me](https://tanaytoshniwal.me) -->
+<!-- My Portfolio: [https://google.com) -->
 
-[<img alt="portfolio link" src="https://img.shields.io/badge/My%20Portfolio-https%3A%2F%2Ftanaytoshniwal.me-brightgreen" />](https://tanaytoshniwal.me) 
+[<img alt="portfolio link" src="https://img.shields.io/badge/My%20Portfolio-https%3A%2F%2Ftanaytoshniwal.me-brightgreen" />](https://google.com) 
 
-[<img alt="portfolio link" src="https://img.shields.io/badge/My%20Blogs-https%3A%2F%2Ftanaytoshniwal.com-red" />](https://tanaytoshniwal.com) 
+[<img alt="portfolio link" src="https://img.shields.io/badge/My%20Blogs-https%3A%2F%2Ftanaytoshniwal.com-red" />](https://google.com) 
 
-[<img alt="resume link" src="https://img.shields.io/badge/My%20CV-Download%20my%20Resume-blue" />](https://tanaytoshniwal.me/assets/tanay-toshniwal-resume.pdf)
+[<img alt="resume link" src="https://img.shields.io/badge/My%20CV-Download%20my%20Resume-blue" />](https://google.com)
 
-[<img alt="email" src="https://img.shields.io/badge/Email%20me-tanaytoshniwal98%40gmail.me-orange" />](mailto:tanaytoshniwal98@gmail.me) 
+[<img alt="email" src="https://img.shields.io/badge/Email%20me-Raymonddevries98%40gmail.com-orange" />](mailto:Raymonddevriesgmail.com) 
 
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/tanaytoshniwal?label=Follow%20Me&style=social" />
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/DevCrafBruhs?label=Follow%20Me&style=social" />
 
 -----
-Credits: [tanaytoshniwal](https://github.com/tanaytoshniwal)
+Credits: [90barricade93](https://https://github.com/90barricade93)
 
 Last Edited on: 30/08/2020
