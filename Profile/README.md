@@ -55,17 +55,18 @@ Lorem Ipsum is slechts een proeftekst uit het drukkerij- en zetterijwezen. Lorem
 
 <!-- My Portfolio: [https://google.com) -->
 
-[<img alt="portfolio link" src="https://img.shields.io/badge/My%20Portfolio-https%3A%2F%2Ftanaytoshniwal.me-brightgreen" />](https://google.com) 
+[<img alt="portfolio link" src="https://img.shields.io/badge/My%20Portfolio-https%3A%2F%2Fgoogle.com-brightgreen" />](https://google.com) 
 
-[<img alt="portfolio link" src="https://img.shields.io/badge/My%20Blogs-https%3A%2F%2Ftanaytoshniwal.com-red" />](https://google.com) 
+[<img alt="portfolio link" src="https://img.shields.io/badge/My%20Blogs-https%3A%2F%2Fgoogle.com-red" />](https://google.com) 
 
 [<img alt="resume link" src="https://img.shields.io/badge/My%20CV-Download%20my%20Resume-blue" />](https://google.com)
 
 [<img alt="email" src="https://img.shields.io/badge/Email%20me-Raymonddevries98%40gmail.com-orange" />](mailto:Raymonddevriesgmail.com) 
 
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/DevCrafBruhs?label=Follow%20Me&style=social" />
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/90barricade93?label=Follow%20Me&style=social" />
 
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/Freezler?label=Follow%20Me&style=social" />
 -----
-Credits: [90barricade93](https://https://github.com/90barricade93)
+Credits: [90barricade93](https://github.com/90barricade93)
 
 Last Edited on: 30/08/2020
