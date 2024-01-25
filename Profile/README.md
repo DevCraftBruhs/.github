@@ -7,6 +7,11 @@
     <img src="https://github-readme-stats.vercel.app/api?username=Freezler&show_icons=true&count_private=true&theme=dark" alt="DevCrafBruhs Github Stats" />
 </p>
 
+</p>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=90barricade93&show_icons=true&count_private=true&theme=dark" alt="DevCrafBruhs Github Stats" />
+</p>
+
 # About US
 
 Hi folks :wave:
