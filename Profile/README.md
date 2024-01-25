@@ -66,7 +66,8 @@ Lorem Ipsum is slechts een proeftekst uit het drukkerij- en zetterijwezen. Lorem
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/90barricade93?label=Follow%20Me&style=social" />
 
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/Freezler?label=Follow%20Me&style=social" />
------
+
 Credits: [90barricade93](https://github.com/90barricade93)
 
-Last Edited on: 30/08/2020
+
+Last Edited on: 25/01/2024
