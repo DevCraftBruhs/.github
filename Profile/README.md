@@ -1,7 +1,7 @@
 # DevCrafBruhs Organization Profile Page
 
 <p align="center">
-    <img src="Profile/OIG.jpg" alt="DevCrafBruhs Logo" style="width: 50%;" />
+    <img src="OIG.jpg" alt="DevCrafBruhs Logo" style="width: 50%;" />
 </p>
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Freezler&show_icons=true&count_private=true&theme=dark" alt="DevCrafBruhs Github Stats" />
@@ -12,7 +12,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=90barricade93&show_icons=true&count_private=true&theme=dark" alt="DevCrafBruhs Github Stats" />
 </p>
 
-# About US
+# About US 
 
 Hi folks :wave:
 
@@ -22,13 +22,11 @@ Lorem Ipsum is slechts een proeftekst uit het drukkerij- en zetterijwezen. Lorem
 
 ## Programming Languages
 
-<img src="https://img.shields.io/badge/C-lightgrey" alt="C" /> <img src="https://img.shields.io/badge/C++-ff69b4" alt="C++" /> <img src="https://img.shields.io/badge/Java SE-important" alt="Java SE" /> <img src="https://img.shields.io/badge/Python 3-informational" alt="Python 3" /> <img src="https://img.shields.io/badge/JavaScript (ES6)-brightgreen" alt="JavaScript (ES6)" /> <img src="https://img.shields.io/badge/TypeScript-yellow" alt="TypeScript" />
+<img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" /> <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="Java Script" /> <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python 3" /> 
 
-<!-- * C/C++
-* Java SE
-* Python 3
+<!-- * C#
 * JavaScript (ES6)
-* TypeScript -->
+* Python 3 -->
 
 ## Frameworks
 
@@ -57,7 +55,7 @@ Lorem Ipsum is slechts een proeftekst uit het drukkerij- en zetterijwezen. Lorem
         <li>MySQL</li>
     </ul>
 </details>
-
+<br/>
 # Want to know more?
 
 <!-- My Portfolio: [https://google.com) -->
